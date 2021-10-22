@@ -9,7 +9,7 @@ import { GlobalsService } from 'src/app/globals.service'
 export class LoaderComponent implements OnInit {
 
   colours = {
-    text_pri : '',
+    text_head : '',
     text_sec : ''
   }
 
@@ -18,7 +18,7 @@ export class LoaderComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
-    this.colours.text_pri = this.globals.HTML_fonts.text_pri;
+    this.colours.text_head = this.globals.HTML_fonts.text_head;
     this.colours.text_sec = this.globals.HTML_fonts.text_sec;
   }
 

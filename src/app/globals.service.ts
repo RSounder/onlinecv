@@ -7,7 +7,7 @@ export class GlobalsService {
 
   HTML_fonts = {
     background_pri: '#0B0C10',
-    background_sec: '#1F2833',
+    background_sec: '#00554f ',
     text_pri: '#C5C6C7',
     text_head: '#66FCF1',
     text_sec: '#45A29E',
