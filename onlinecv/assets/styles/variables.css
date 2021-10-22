@@ -1,0 +1,17 @@
+:root {
+  --bg-primary-color: #030d0eeb;
+  --primary-text-color: #66FCF1;
+  --secondary-text-color: #C5C6C7;
+  --heading-sec-color: #45A29E;
+  --img-fill-color: #f3f3f3;
+  --text-font-family: "Grenze";
+  --heading-font-family: "Calistoga";
+  --f-xxs: 12px;
+  --f-xs: 13px;
+  --f-sm: 14px;
+  --f-md: 16px;
+  --f-lg: 18px;
+  --f-xl: 20px;
+  --f-xxl: 22px;
+  --f-heading: 32px;
+}
