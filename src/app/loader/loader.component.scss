@@ -1,0 +1,59 @@
+#loader-circle {
+  stroke-dasharray: 120px;
+  stroke-dashoffset: 299px;
+  animation: line-anim 3s ease forwards
+}
+
+.circle.small {
+  display: inline-block;
+	border-radius: 50%;
+  animation: rotate 3s linear;
+  overflow: visible;
+}
+
+.circle.filled {
+	background-color: #666666;
+}
+
+#loader {
+  margin: auto;
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 10;
+  transform: translate(-50%, -50%);
+  overflow: visible;
+}
+
+#loader path:nth-child(1){
+  stroke-dasharray: 742px;
+  stroke-dashoffset: 742px;
+  animation: line-anim 1.5s ease forwards, fill-anim 2s ease forwards 1.5s;
+}
+
+#loader path:nth-child(2){
+  stroke-dasharray: 650px;
+  stroke-dashoffset: 650px;
+  animation: line-anim 1.5s ease forwards 0.4s, fill-anim 2s ease forwards 1.5s;
+}
+
+@keyframes line-anim {
+  to{
+    stroke-dashoffset: 0;
+  }
+}
+@keyframes fill-anim {
+  from{
+    fill: transparent
+  }
+  to{
+    fill: #b20000;
+  }
+}
+
+@keyframes rotate {
+  0% {transform: rotate(-41deg);}
+  100% {transform: rotate(10deg);}
+}
+
