@@ -1,8 +1,8 @@
 :root {
-  --bg-primary-color: #0B0C10;
-  --primary-text-color: #66FCF1;
+  --bg-primary-color: linear-gradient(to top, #09203f 0%, #537895 100%);
+  --primary-text-color: #00FFFF;
   --secondary-text-color: #00554f ;
-  --heading-sec-color: #C5C6C7;
+  --heading-sec-color: #f4faff;
   --img-fill-color: #f3f3f3;
   --text-font-family: "Grenze";
   --heading-font-family: "Calistoga";
