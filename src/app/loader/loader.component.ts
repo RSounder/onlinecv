@@ -8,18 +8,13 @@ import { GlobalsService } from 'src/app/globals.service'
 })
 export class LoaderComponent implements OnInit {
 
-  colours = {
-    text_head : '',
-    text_sec : ''
-  }
+  strokeColor = "#00afaf"
+  circleColor = "#FF3300"
 
   constructor(
-    private globals: GlobalsService
   ) { }
 
   ngOnInit(): void {
-    this.colours.text_head = this.globals.HTML_fonts.text_head;
-    this.colours.text_sec = this.globals.HTML_fonts.text_sec;
   }
 
 }

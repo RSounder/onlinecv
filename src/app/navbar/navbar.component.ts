@@ -10,18 +10,12 @@ import { GlobalsService } from 'src/app/globals.service'
 })
 export class NavbarComponent implements OnInit {
 
-  colours = {
-    text_head : '',
-    text_sec : ''
-  }
-
+  circleColor = '#FF3300'
+  strokeColor = "#00afaf"
   constructor(
-    private globals: GlobalsService
   ) { }
 
   ngOnInit(): void {
-    this.colours.text_head = this.globals.HTML_fonts.text_head;
-    this.colours.text_sec = this.globals.HTML_fonts.text_sec;
   }
 
 }

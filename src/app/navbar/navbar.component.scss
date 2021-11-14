@@ -5,7 +5,7 @@ $fontFamily: var(--text-font-family);
 
 .nav {
   height: 80px;
-  background-color: $primaryBgColor;
+  background-color: transparent;
   display: flex;
   font-family: $fontFamily;
   position: fixed;
