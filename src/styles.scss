@@ -26,8 +26,10 @@
    height: 100%;
    line-height: 1.6;
    color: $primaryTextColor;
+   //background:#3b5c7a;
    background-image: $primaryBgColor;
-
+   background-repeat: no-repeat;
+   background-attachment: fixed;
    margin: 0;
    width: 100%;
    min-height: 100%;

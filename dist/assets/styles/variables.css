@@ -1,7 +1,7 @@
 :root {
-  --bg-primary-color: linear-gradient(to top, #09203f 0%, #537895 100%);
+  --bg-primary-color: linear-gradient(0deg, #09203f 0%, #537895);
   --primary-text-color: #00FFFF;
-  --secondary-text-color: #00554f ;
+  --secondary-text-color: #00554f;
   --heading-sec-color: #f4faff;
   --img-fill-color: #f3f3f3;
   --text-font-family: "Grenze";

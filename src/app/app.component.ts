@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { Subscription, Observable } from 'rxjs';
+import { Observable } from 'rxjs';
 import { timer } from 'rxjs';
 
 @Component({
@@ -18,15 +18,10 @@ export class AppComponent {
 
   public setTimer(){
     this.showLoader = true;
-    this.timer = timer(4000);
+    this.timer = timer(3000);
     this.timer.subscribe(() => {
       this.showLoader = false;
   });
   }
 
-  ngAfterViewInit(): void {
-    setTimeout(() => {
-      this.showLoader = false;
-    }, 4000)
-  }
 }
