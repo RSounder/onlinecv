@@ -1,48 +1,47 @@
-import {Component,OnInit} from '@angular/core';
-import {PrimeIcons} from 'primeng/api';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-awards',
   templateUrl: './awards.component.html',
-  styleUrls: ['./awards.component.scss']
+  styleUrls: ['./awards.component.scss'],
 })
 export class AwardsComponent implements OnInit {
-
   events1: any[] = [];
-  events2: any[] = [];
 
-  constructor() { }
+  constructor() {}
 
   ngOnInit(): void {
     this.events1 = [
       {
-        status: "Ordered",
-        date: "15/10/2020 10:30",
-        icon: PrimeIcons.SHOPPING_CART,
-        color: "#9C27B0",
-        image: "game-controller.jpg"
+        heading: 'DRR Special Recognition',
+        date: 'April 2021',
+        icon: 'emoji_events',
+        image: 'drr_spec.jpg',
+        org: 'Rotary International Dist. 3201',
+        context:
+          'For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21',
+        chips: ['leadership', 'volunteering'],
       },
       {
-        status: "Processing",
-        date: "15/10/2020 14:00",
-        icon: PrimeIcons.COG,
-        color: "#673AB7"
+        heading: 'DRR Special Recognition2affswfswewsffsfsdf',
+        date: 'April 2022',
+        icon: 'military_tech',
+        image: 'drr_spec.jpg',
+        org: 'Rotary International Dist. 3201gdrfgdgdgdhgdf',
+        context:
+          'For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21',
+        chips: ['leadership', 'volunteering'],
       },
       {
-        status: "Shipped",
-        date: "15/10/2020 16:15",
-        icon: PrimeIcons.ENVELOPE,
-        color: "#FF9800"
+        heading: 'DRR Special Recognition33',
+        date: 'April 2022',
+        icon: 'military_tech',
+        image: 'drr_spec.jpg',
+        org: 'Rotary International Dist. 3205',
+        context:
+          'For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21',
+        chips: ['leadership', 'volunteering'],
       },
-      {
-        status: "Delivered",
-        date: "16/10/2020 10:00",
-        icon: PrimeIcons.CHECK,
-        color: "#607D8B"
-      }
     ];
-
-    this.events2 = ["2020", "2021", "2022", "2023"];
   }
-
 }

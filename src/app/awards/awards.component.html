@@ -1,116 +1,48 @@
 <div class="restrict-top">
   <section id="cd-timeline" class="cd-container">
-    <div class="cd-timeline-block">
-      <div class="cd-timeline-img cd-picture"></div>
+    <div class="cd-timeline-block" *ngFor="let data of events1">
+      <div class="cd-timeline-img cd-picture">
+        <span class="material-icons md-dark" [textContent]="data.icon"></span>
+      </div>
 
       <div class="cd-timeline-content">
-        <h2>Penta Consulting</h2>
-        <div class="timeline-content-info">
-          <span class="timeline-content-info-title">
-            <i class="fa fa-certificate" aria-hidden="true"></i>
-            Front End Developer
-          </span>
-          <span class="timeline-content-info-date">
-            <i class="fa fa-calendar-o" aria-hidden="true"></i>
-            June 2016 - Present
-          </span>
+        <h2>{{ data.heading }}</h2>
+        <div
+          style="
+            display: inline-flex;
+            justify-content: space-between;
+            padding-top: 5%;
+          "
+        >
+          <img
+            src="https://images.unsplash.com/reserve/Af0sF2OS5S5gatqrKzVP_Silhoutte.jpg?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGljfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+            width="75rem"
+            height="75rem"
+            alt="award-img"
+            style="border-radius: 50%"
+          />
+          <div class="timeline-content-info">
+            <div class="timeline-content-info-title">
+              <span class="material-icons"> business </span>
+              <div class="dataorg">
+                {{ data.org }}
+              </div>
+            </div>
+            <div class="timeline-content-info-date">
+              <span class="material-icons"> calendar_month </span>
+              <div class="datadate">
+                {{ data.date }}
+              </div>
+            </div>
+          </div>
         </div>
+
         <p>
-          Working alongside the designer team implementing the designs, also
-          developing custom solutions to address team necessities.
+          {{ data.context }}
         </p>
         <ul class="content-skills">
-          <li>HTML5</li>
-          <li>CSS3</li>
-          <li>JavaScript</li>
-          <li>jQuery</li>
-          <li>Wordpress</li>
+          <li *ngFor="let list_data of data.chips">{{ list_data }}</li>
         </ul>
-      </div>
-      <!-- cd-timeline-content -->
-    </div>
-    <!-- cd-timeline-block -->
-
-    <div class="cd-timeline-block">
-      <div class="cd-timeline-img cd-movie"></div>
-      <!-- cd-timeline-img -->
-
-      <div class="cd-timeline-content">
-        <h2>Title of section 2</h2>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto,
-          optio, dolorum provident rerum aut hic quasi placeat iure tempora
-          laudantium ipsa ad debitis unde?
-        </p>
-        <span class="cd-date">Jan 18</span>
-      </div>
-      <!-- cd-timeline-content -->
-    </div>
-    <!-- cd-timeline-block -->
-
-    <div class="cd-timeline-block">
-      <div class="cd-timeline-img cd-picture"></div>
-      <!-- cd-timeline-img -->
-
-      <div class="cd-timeline-content">
-        <h2>Title of section 3</h2>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi,
-          obcaecati, quisquam id molestias eaque asperiores voluptatibus
-          cupiditate error assumenda delectus odit similique earum voluptatem
-          doloremque dolorem ipsam quae rerum quis. Odit, itaque, deserunt
-          corporis vero ipsum nisi eius odio natus ullam provident pariatur
-          temporibus quia eos repellat consequuntur perferendis enim amet quae
-          quasi repudiandae sed quod veniam dolore possimus rem voluptatum
-          eveniet eligendi quis fugiat aliquam sunt similique aut adipisci.
-        </p>
-        <span class="cd-date">Jan 24</span>
-      </div>
-      <!-- cd-timeline-content -->
-    </div>
-    <!-- cd-timeline-block -->
-
-    <div class="cd-timeline-block">
-      <div class="cd-timeline-img cd-location"></div>
-      <!-- cd-timeline-img -->
-
-      <div class="cd-timeline-content">
-        <h2>Title of section 4</h2>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto,
-          optio, dolorum provident rerum aut hic quasi placeat iure tempora
-          laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui
-          ut.
-        </p>
-        <span class="cd-date">Feb 14</span>
-      </div>
-      <!-- cd-timeline-content -->
-    </div>
-    <!-- cd-timeline-block -->
-
-    <div class="cd-timeline-block">
-      <div class="cd-timeline-img cd-location"></div>
-
-      <div class="cd-timeline-content">
-        <h2>Title of section 5</h2>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto,
-          optio, dolorum provident rerum.
-        </p>
-        <span class="cd-date">Feb 18</span>
-      </div>
-      <!-- cd-timeline-content -->
-    </div>
-    <!-- cd-timeline-block -->
-
-    <div class="cd-timeline-block">
-      <div class="cd-timeline-img cd-movie"></div>
-      <!-- cd-timeline-img -->
-
-      <div class="cd-timeline-content">
-        <h2>Final Section</h2>
-        <p>This is the content of the last section</p>
-        <span class="cd-date">Feb 26</span>
       </div>
       <!-- cd-timeline-content -->
     </div>
