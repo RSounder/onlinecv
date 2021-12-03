@@ -5,7 +5,8 @@ $fontFamily: var(--text-font-family);
 
 .nav {
   height: 80px;
-  background-color: transparent;
+  background: linear-gradient(
+    180deg, rgba(73,108,138,1) 0%, rgba(73,108,138,0.95) 35%, rgb(74 109 138 / 90%) 100%);
   display: flex;
   font-family: $fontFamily;
   position: fixed;

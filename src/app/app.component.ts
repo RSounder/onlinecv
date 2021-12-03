@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { Observable } from 'rxjs';
 import { timer } from 'rxjs';
+import { PrimeNGConfig } from 'primeng/api';
 
 @Component({
   selector: 'app-root',
@@ -12,8 +13,11 @@ export class AppComponent {
   showLoader = true;
   private timer: Observable<any> | undefined;
 
+  constructor(private primengConfig: PrimeNGConfig) {}
+
   ngOnInit():void {
     this.setTimer();
+    this.primengConfig.ripple = true;
   }
 
   public setTimer(){
