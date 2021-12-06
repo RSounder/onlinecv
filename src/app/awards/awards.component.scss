@@ -114,7 +114,7 @@ Main components
     text-overflow: ellipsis;
   }
   .timeline-content-info {
-    width: 8rem;
+    width: max(17vw, 9rem);
     margin-left: 5%;
     align-self: center;
     display: inline-block;
@@ -284,5 +284,17 @@ Main components
 .dataorg,
 .datadate {
   display: inline-block;
-  transform: translateY(-25%);
+  transform: translateY(-15%);
+  -webkit-transform: translateY(-15%);
+  -moz-transform: translateY(-15%);
+  -ms-transform: translateY(-15%);
+  -o-transform: translateY(-15%);
+}
+
+.cd-timeline-content .p-header {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 1.5rem;
 }

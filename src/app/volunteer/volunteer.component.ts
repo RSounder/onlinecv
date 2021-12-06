@@ -23,11 +23,11 @@ export class VolunteerComponent implements OnInit {
         chips: ['leadership', 'volunteering'],
       },
       {
-        heading: 'DRR Special Recognition2affswfswewsffsfsdf',
+        heading: 'DRR Special Recognition2',
         date: 'April 2022',
         icon: 'military_tech',
         image: 'drr_spec.jpg',
-        org: 'Rotary International Dist. 3201gdrfgdgdgdhgdf',
+        org: 'Rotary International Dist. 3201',
         context:
           'For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21',
         chips: ['leadership', 'volunteering'],
