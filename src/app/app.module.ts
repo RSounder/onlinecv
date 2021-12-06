@@ -14,6 +14,11 @@ import { PageUnderBuildComponent } from './page-under-build/page-under-build.com
 import { AwardsComponent } from './awards/awards.component'
 import { TimelineModule } from 'primeng/timeline';
 import { CardModule } from "primeng/card";
+import { DatacardComponent } from './datacard/datacard.component';
+import { ProjectsComponent } from './projects/projects.component';
+import { AchievementsComponent } from './achievements/achievements.component';
+import { VolunteerComponent } from './volunteer/volunteer.component';
+import { MentorComponent } from './mentor/mentor.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +29,12 @@ import { CardModule } from "primeng/card";
     FooterComponent,
     LayoutComponent,
     PageUnderBuildComponent,
-    AwardsComponent
+    AwardsComponent,
+    DatacardComponent,
+    ProjectsComponent,
+    AchievementsComponent,
+    VolunteerComponent,
+    MentorComponent
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,28 @@
+<div class="common-data" *ngFor="let data of dataArray">
+  <div class="common-data-header">
+    <div class="common-data-header-title">
+      <p>{{ data.header }}</p>
+    </div>
+
+    <p class="common-data-header-date">{{ data.date }}</p>
+  </div>
+
+  <div class="common-data-content row">
+    <div class="col-md-5">
+      <p class="common-data-content-text">{{ data.content }}</p>
+
+      <ul class="content-skills">
+        <li *ngFor="let list of data.skills">{{ list }}</li>
+      </ul>
+    </div>
+
+    <div class="common-data-content-image col-md-6 offset-md-1">
+      <img
+        class="card-image-top"
+        [src]="data.image"
+        alt="Google img"
+        class="single-img"
+      />
+    </div>
+  </div>
+</div>
