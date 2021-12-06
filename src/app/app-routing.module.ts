@@ -12,7 +12,7 @@ const routes: Routes = [
   { path: 'projects', component: ProjectsComponent },
   { path: 'mentor', component: MentorComponent },
   { path: 'courses', component: PageUnderBuildComponent },
-  { path: 'volunteer', component: VolunteerComponent },
+  { path: 'leader', component: VolunteerComponent },
   { path: 'awards', component: AchievementsComponent },
 ];
 
