@@ -1,3 +1,4 @@
+import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -8,40 +9,16 @@ import { Component, OnInit } from '@angular/core';
 export class AchievementsComponent implements OnInit {
   data: any[] = [];
 
-  constructor() {}
+  constructor(private http: HttpClient) {}
 
   ngOnInit(): void {
-    this.data = [
-      {
-        heading: 'DRR Special Recognition',
-        date: 'April 2021',
-        icon: 'emoji_events',
-        image: 'drr_spec.jpg',
-        org: 'Rotary International Dist. 3201',
-        context:
-          'For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21',
-        chips: ['leadership', 'volunteering'],
-      },
-      {
-        heading: 'DRR Special Recognition2affswfswewsffsfsdf',
-        date: 'April 2022',
-        icon: 'military_tech',
-        image: 'drr_spec.jpg',
-        org: 'RID3201',
-        context:
-          'For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21',
-        chips: ['leadership', 'volunteering'],
-      },
-      {
-        heading: 'DRR Special Recognition33',
-        date: 'April 2022',
-        icon: 'military_tech',
-        image: 'drr_spec.jpg',
-        org: 'Rotary International Dist. 3205',
-        context:
-          'For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21',
-        chips: ['leadership', 'volunteering'],
-      },
-    ];
+    this.getData();
+  }
+  getData() {
+    const url =
+      'https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/data/data_combined.json';
+    this.http.get(url).subscribe((res: any) => {
+      this.data = res.Achievements;
+    });
   }
 }

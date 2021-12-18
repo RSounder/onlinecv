@@ -1,7 +1,8 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import {AccordionModule} from 'primeng/accordion';     //accordion and accordion tab
-import {MenuItem} from 'primeng/api';                  //api
+import { AccordionModule } from 'primeng/accordion'; //accordion and accordion tab
+import { MenuItem } from 'primeng/api'; //api
+import { HttpClientModule } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -11,9 +12,9 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { LayoutComponent } from './layout/layout.component';
 import { PageUnderBuildComponent } from './page-under-build/page-under-build.component';
-import { AwardsComponent } from './awards/awards.component'
+import { AwardsComponent } from './awards/awards.component';
 import { TimelineModule } from 'primeng/timeline';
-import { CardModule } from "primeng/card";
+import { CardModule } from 'primeng/card';
 import { DatacardComponent } from './datacard/datacard.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { AchievementsComponent } from './achievements/achievements.component';
@@ -34,16 +35,16 @@ import { MentorComponent } from './mentor/mentor.component';
     ProjectsComponent,
     AchievementsComponent,
     VolunteerComponent,
-    MentorComponent
+    MentorComponent,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     TimelineModule,
-    CardModule
-
+    CardModule,
+    HttpClientModule,
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
