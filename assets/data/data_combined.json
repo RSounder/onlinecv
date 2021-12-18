@@ -1,0 +1,70 @@
+{
+  "Projects": [{
+      "header": "Closed Loop Validation of Touch, Voice & Extended Reality Systems",
+      "date": "10 Dec 2021",
+      "content": "A clear start and end date  There are projects that last several years but a project cannot go on forever. It needs to have a clear beginning, a definite end, and an overview of what happens in between. A project creates something new  Every project is unique, producing something that did not previously exist. A project is a one-time, once-off activity, never to be repeated exactly the same way again. A project has boundaries  A project operates within certain constraints of time, money, quality, and functionality. Well see more about this in later sections.",
+      "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+      "skills": ["Python", "Angular"]
+    },
+    {
+      "header": "    Project2",
+      "date": "10 Oct 2021",
+      "content": "A clear start and end date  There are projects that last several years but a project cannot go on forever. It needs to have a clear beginning, a definite end, and an overview of what happens in between. A project creates something new  Every project is unique, producing something that did not previously exist. A project is a one-time, once-off activity, never to be repeated exactly the same way again. A project has boundaries  A project operates within certain constraints of time, money, quality, and functionality. Well see more about this in later sections.",
+      "image": "https://wallpaperaccess.com/full/2390255.jpg",
+      "skills": ["Python", "Angular", "ROS", "Linux", "Embedded Systems"]
+    }
+  ],
+  "Volunteer": [{
+      "heading": "DRR Special Recognition",
+      "date": "April 2021",
+      "icon": "emoji_events",
+      "image": "drr_spec.jpg",
+      "org": "Rotary International Dist. 3201",
+      "context": "For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21",
+      "chips": ["leadership", "volunteering"]
+    },
+    {
+      "heading": "DRR Special Recognition2",
+      "date": "April 2021",
+      "icon": "emoji_events",
+      "image": "drr_spec.jpg",
+      "org": "Rotary International Dist. 3201",
+      "context": "For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21",
+      "chips": ["leadership", "volunteering"]
+    }
+  ],
+  "Mentor": [{
+      "header": "Mentor1",
+      "date": "10 Dec 2021",
+      "content": "A clear start and end date – There are projects that last several years but a project cannot go on forever. It needs to have a clear beginning, a definite end, and an overview of what happens in between. A project creates something new – Every project is unique, producing something that did not previously exist. A project is a one-time, once-off activity, never to be repeated exactly the same way again. A project has boundaries – A project operates within certain constraints of time, money, quality, and functionality. We’ll see more about this in later sections.",
+      "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+      "skills": ["Python", "Angular"]
+    },
+    {
+      "header": "Mentor2",
+      "date": "10 Dec 2021",
+      "content": "A clear start and end date – There are projects that last several years but a project cannot go on forever. It needs to have a clear beginning, a definite end, and an overview of what happens in between. A project creates something new – Every project is unique, producing something that did not previously exist. A project is a one-time, once-off activity, never to be repeated exactly the same way again. A project has boundaries – A project operates within certain constraints of time, money, quality, and functionality. We’ll see more about this in later sections.",
+      "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+      "skills": ["Python", "Angular"]
+    }
+  ],
+  "Achievements": [{
+      "heading": "DRR Special Recognition",
+      "date": "April 2021",
+      "icon": "emoji_events",
+      "image": "drr_spec.jpg",
+      "org": "Rotary International Dist. 3201",
+      "context": "For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21",
+      "chips": ["leadership", "volunteering"]
+    },
+    {
+      "heading": "DRR Special Recognition2",
+      "date": "April 2021",
+      "icon": "emoji_events",
+      "image": "drr_spec.jpg",
+      "org": "Rotary International Dist. 3201",
+      "context": "For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21",
+      "chips": ["leadership", "volunteering"]
+    }
+  ]
+}
