@@ -1,17 +1,17 @@
 {
   "Projects": [{
       "header": "Closed Loop Validation of Touch, Voice & Extended Reality Systems",
-      "date": "10 Dec 2021",
+      "date": "Dec 2021",
       "content": "A clear start and end date  There are projects that last several years but a project cannot go on forever. It needs to have a clear beginning, a definite end, and an overview of what happens in between. A project creates something new  Every project is unique, producing something that did not previously exist. A project is a one-time, once-off activity, never to be repeated exactly the same way again. A project has boundaries  A project operates within certain constraints of time, money, quality, and functionality. Well see more about this in later sections.",
       "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
       "skills": ["Python", "Angular"]
     },
     {
-      "header": "",
-      "date": "",
-      "content": "",
+      "header": "Autonomous Customer Engagement Robot Swarm",
+      "date": "Sept 2018",
+      "content": "Inorder to automate the airport processes, we built a robot swarm to act as Mobile digital assistants with more emphasis on airport customer experience",
       "image": "",
-      "skills": []
+      "skills": ["ROS", "Distributed Connected Systems", "Computer Vision"]
     },
     {
       "header": "",
