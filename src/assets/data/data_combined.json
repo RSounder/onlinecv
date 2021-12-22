@@ -10,7 +10,7 @@
       "header": "Autonomous Customer Engagement Robot Swarm",
       "date": "Sept 2018",
       "content": "In order to enhance user experience in airports, we built a robot swarm to act as Mobile digital assistants with more emphasis on airport customer experience",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/closedLoopPDAVnV.png?raw=true",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/acers.png?raw=true",
       "skills": ["ROS", "Mobile robot localization", "Distributed Connected Systems", "Computer Vision"]
     },
     {
