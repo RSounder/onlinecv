@@ -30,9 +30,9 @@
     {
       "header": "[Proj] Compact Floor Cleaner Robot",
       "date": "Dec 2017",
-      "content": "The robot designed autonomously navigates around an unknown environment, maps the surroundings and cleans the floor effectively.",
+      "content": "The robot designed autonomously navigates around an unknown environment, maps the surroundings and cleans the floor effectively. Designed the navigation, control algorithms, and implemented digital control systems of the robot. Used pre-built 2-D maps with multi sensor array (accelerometer, magnetometer, gyroscope and quadrature encoders) data processing for spatial localization. Built-in Cyclone chambers were built which lets in the air flow from a tangential input at a specified angle proportional to the length of the chamber so as to produce a whirl wind action to slide down the dust particles by the action of centrifugal force and suck up the air by the motor suction. For easy access two modes of operation has been devised: The auto mode and the manual mode. In the auto mode the functions are Mapping sequence, Real time obstacle avoidance, Auto-dock sequence, and Battery monitoring and alarm system. During the manual mode, the robot is paired with a mobile phone via bluetooth and manual motion commands can be given using a custom mobile application. Other commands such as controlling actuators, battery monitoring and time estimates to clean are also provided. In addition to that, The chassis was designed so as to keep the center of height as low as possible keeping adequate ground clearance and compact such that it could be folded and packed in a small-size export box for easy transportation.",
       "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/floorcleaner.png?raw=true",
-      "skills": ["Embedded Programming", "Sensor data analysis", "Data Structures & Algorithms", "Mobile Robotics"]
+      "skills": ["Embedded Programming", "Sensor data analysis", "Data Structures & Algorithms", "Mobile Robotics", "Control system design"]
     }
   ],
   "Volunteer": [{
