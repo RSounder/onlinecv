@@ -11,7 +11,7 @@
       "date": "Sept 2018",
       "content": "In order to enhance user experience in airports, we (a) built a robot swarm to act as Mobile digital assistants with more emphasis on airport customer experience",
       "image": "src/assets/images/acers.png",
-      "skills": ["ROS", "Distributed Connected Systems", "Computer Vision"]
+      "skills": ["ROS", "Mobile robot localization", "Distributed Connected Systems", "Computer Vision"]
     },
     {
       "header": "[R&D] ",
