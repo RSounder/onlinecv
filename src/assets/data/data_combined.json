@@ -48,7 +48,7 @@
       "heading": "District Priority Projects Chairman",
       "date": "Aug 2020 *",
       "icon": "people",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/dpp.PNG?raw=true",
       "org": "Rotaract, RID3201",
       "context": "Rotaract Club of Coimbatore Spectrum",
       "chips": ["leadership", "community service", "teaching"]
@@ -84,7 +84,7 @@
       "heading": "House Captain, Uranus (Red) House",
       "date": "June 2014 - June 2015",
       "icon": "stars",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/captain.jpg?raw=true",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/captain.PNG?raw=true",
       "org": "G.D. MHSS",
       "context": "",
       "chips": ["leadership", "motivation", "communication", "teamwork"]
