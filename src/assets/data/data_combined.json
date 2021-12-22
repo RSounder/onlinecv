@@ -3,14 +3,14 @@
       "header": "[R&D] Closed Loop Validation of Touch, Voice & Extended Reality Systems",
       "date": "Dec 2021",
       "content": "An automated system to evaluate the performance of Personal Digital Assistants (PDA) using simulated human-like actuation. The PDA unit under test (UUT) is mounted on a 3DOF delta robot which orients it to different angles as touch, voice and gesture commands are simulated via an ATE system that consists of a 4 DOF SCARA robot, speaker, mic and a 3D depth sensor. Test cases are written alongside expected results; The robot arm is actuated to simulate touch and gestures while speaker plays an audio clip generated using Text-to-speech algorithms. PDA outputs are collected using screen recordings and voice outputs. These are analysed using RNN based deep learning models to evaluate the performance of UUTs. Building the two robots, configuration and programming using ROS, real time sensor data analysis and deep learning models were learning outcomes. Python and NLP algorithms were mastered",
-      "image": "src/assets/images/ClosedLoopPDAVnV.png",
+      "image": "/src/assets/images/ClosedLoopPDAVnV.png",
       "skills": ["Python", "Robotics", "ROS", "NLP: STT + TTS", "Point Cloud Analysis", "Real-time sensor signal processing"]
     },
     {
       "header": "Autonomous Customer Engagement Robot Swarm",
       "date": "Sept 2018",
       "content": "In order to enhance user experience in airports, we (a) built a robot swarm to act as Mobile digital assistants with more emphasis on airport customer experience",
-      "image": "src/assets/images/acers.png",
+      "image": "/src/assets/images/acers.png",
       "skills": ["ROS", "Mobile robot localization", "Distributed Connected Systems", "Computer Vision"]
     },
     {
