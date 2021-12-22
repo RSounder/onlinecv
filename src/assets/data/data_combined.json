@@ -36,22 +36,58 @@
     }
   ],
   "Volunteer": [{
-      "heading": "DRR Special Recognition",
-      "date": "April 2021",
-      "icon": "emoji_events",
-      "image": "drr_spec.jpg",
-      "org": "Rotary International Dist. 3201",
-      "context": "For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21",
-      "chips": ["leadership", "volunteering"]
+      "heading": "Innovation Champion, HMI CoE",
+      "date": "Feb 2021 - Present",
+      "icon": "precision_manufacturing",
+      "image": "https://valiantceo.com/wp-content/uploads/2021/04/Team-Leader-1024x576.jpg",
+      "org": "Robert Bosch Engineering",
+      "context": "",
+      "chips": ["leadership", "innovation", "patents"]
     },
     {
-      "heading": "",
-      "date": "",
-      "icon": "",
+      "heading": "District Priority Projects Chairman",
+      "date": "Aug 2020 - Present",
+      "icon": "people",
       "image": "",
-      "org": "",
+      "org": "Rotaract, RID3201",
+      "context": "Rotaract Club of Coimbatore Spectrum",
+      "chips": ["leadership", "community service", "teaching"]
+    },
+    {
+      "heading": "Treasurer, EEE Department Association",
+      "date": "June 2018 - May 2019",
+      "icon": "school",
+      "image": "https://lh3.googleusercontent.com/proxy/olwZlbZcjIcnwOxBUBa09QNbQlbEQFuYjUsX5YtJ2pPwhxbob9SHMXUl3szZ1oAI0w_wrU5oLAmc513vh2B4fDxiAdgPhzG3d4pNDO8XqG_dAkTh_LykhjuLwfsE7oG4B_0I3qrHi02uWB_XEu1ynM5n1u-MAW86wDdgjuUvD9vLhsNxipngS1Etyr86JVIWgQ",
+      "org": "EEE, CIT",
       "context": "",
-      "chips": []
+      "chips": ["communication", "organization", "finance"]
+    },
+    {
+      "heading": "Workshop manager, EEE Department Association",
+      "date": "Jan 2017 - May 2018",
+      "icon": "school",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/workshop.png?raw=true",
+      "org": "EEE, CIT",
+      "context": "",
+      "chips": ["teamwork", "communication", "promotions"]
+    },
+    {
+      "heading": "Board Member & Volunteer",
+      "date": "Jan 2017 - Present",
+      "icon": "health_and_safety",
+      "image": "https://indianredcross.org/images/story-images/press-rel26-feb2019/press-rel26-feb2019.jpg",
+      "org": "Youth Red Cross Society",
+      "context": "",
+      "chips": ["community service", "disaster relief", "teamwork"]
+    },
+    {
+      "heading": "House Captain, Uranus (Red) House",
+      "date": "June 2014 - June 2015",
+      "icon": "stars",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/captain.jpg?raw=true",
+      "org": "G.D. MHSS",
+      "context": "",
+      "chips": ["leadership", "motivation", "communication", "teamwork"]
     }
   ],
   "Mentor": [{
