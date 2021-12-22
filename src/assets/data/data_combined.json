@@ -3,18 +3,18 @@
       "header": "[R&D] Closed Loop Validation of Touch, Voice & Extended Reality Systems",
       "date": "Dec 2021",
       "content": "An automated system to evaluate the performance of Personal Digital Assistants (PDA) using simulated human-like actuation. The PDA unit under test (UUT) is mounted on a 3DOF delta robot which orients it to different angles as touch, voice and gesture commands are simulated via an ATE system that consists of a 4 DOF SCARA robot, speaker, mic and a 3D depth sensor. Test cases are written alongside expected results; The robot arm is actuated to simulate touch and gestures while speaker plays an audio clip generated using Text-to-speech algorithms. PDA outputs are collected using screen recordings and voice outputs. These are analysed using RNN based deep learning models to evaluate the performance of UUTs. Building the two robots, configuration and programming using ROS, real time sensor data analysis and deep learning models were learning outcomes. Python and NLP algorithms were mastered",
-      "image": "https://drive.google.com/uc?export=view&id=1v2_Xn7Wot9sunpgXNU49_cm7gKrpi9N6",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/closedLoopPDAVnV.png?raw=true",
       "skills": ["Python", "Robotics", "ROS", "NLP: STT + TTS", "Point Cloud Analysis", "Real-time sensor signal processing"]
     },
     {
       "header": "Autonomous Customer Engagement Robot Swarm",
       "date": "Sept 2018",
-      "content": "In order to enhance user experience in airports, we built a robot swarm to act as Mobile digital assistants with more emphasis on airport customer experience",
-      "image": "https://drive.google.com/uc?export=view&id=1JdeN34Py2pK8TAz-hXivlzTllIkYURkr",
-      "skills": ["ROS", "Mobile robot localization", "Distributed Connected Systems", "Computer Vision"]
+      "content": "In order to enhance user experience in airports, we built a robot swarm to act as Mobile digital assistants with emphasis on airport customer experience. A robot subsystem consists of a raspberry pi SoC to send and receive data with internet via WiFi. It is connected to a ATmega328P micro-controller for sensor communication and actuation. Quadrature encoders on the motors connected to the 4x4 drive in the robot gives localization inputs along with MPU6050 triple axis gyro-accelerometer. A 180 degree proximity sensor array (build with fusion of IR and HC-SR04 sensors) gives proximity feed to arduino. A camera connected to the raspberry pi gives in visual feed to openCV algorithms running on the SoC. Combined with localization data and proximity data from arduino's sensor arrays and camera feed the system on chip calculates motion trajectory when necessary using a custom 2D Simultaneous Localization and Mapping algorithm. The trigger comes from a customer (upon being directly waved at) or from the online control panel via mobile access point. Intelligent voice chat engagement system built using LSTM coupled with TTS and STT algorithms built using python, the ACERS robot node interacts with a human and aids the human in activities like booking airplane ticket, checking status, booking hotels, information sharing and so on.",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/acers.png?raw=true",
+      "skills": ["ROS", "SLAM", "Distributed Connected Systems", "Computer Vision"]
     },
     {
-      "header": "[R&D] ",
+      "header": "[University Project] Intelligent Distributed Generation in Cloud-Connected Urban Microgrids",
       "date": "",
       "content": "",
       "image": "",
