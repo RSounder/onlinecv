@@ -22,10 +22,17 @@
     },
     {
       "header": "[Thesis] UAV-AGV Symbiotic Pair for Solar Farm Maintenance",
-      "date": "Mar 2019",
+      "date": "Mar 2018",
       "content": "A UAV-AGV symbiotic co-ordinated pair is proposed to have an autonomous, cost-efficient, round the clock PV module maintenance and solar farm security surveillance. The system provides continuous video surveillance through a camera mounted on the Quadcopter relaying data to the UGV which acts as its ground station. The UGV utilizes the video feed data to make decisions like path planning and secondary obstacle avoidance to reach its target areas (the PV modules) and clean them. If any intrusion is detected by the video feed, continuous tracking of the intruder is initiated by the hybrid pair along with alarms being raised to alert the authorities. A distributed model of computing is used in this system. Mobile robot uses a raspberry pi to perform image processing and passive SLAM tracking algorithms. The sensors and actuators are connected to an ATMEGA2560-16au micro-controller which then relays data back and forth with the main SoC controller. The mobile robot is in WiFi connection with the UAV to receive the aerial image data. Since the UGV is much rugged and can support heavy payloads, it is installed with the primary payload of water and air compressor. The idea is to use a gust of wind primarily and water secondarily to cleanse the solar PV modules on the field. Additional data processing elements such as a System on Chip and PV modules with converters are used to make the UGV a standalone control unit for the UAV. An Inductive pad is set up on the UGV to enable a wireless charge point for the UAV. The UAV is primarily used as the data source for the UGV and thus is fit with minimal components to help achieve maximum altitude and flight time.",
       "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/uav-ugv.png?raw=true",
-      "skills": ["Cyber Physical Systems", "Block Chain", "Edge Computing", "Power Electronics", "Real-time sensor signal processing"]
+      "skills": ["Computer Vision", "Distributed systems", "Process Scheduling", "Mobile Robotics", "Passive robot localization"]
+    },
+    {
+      "header": "[Proj] Compact Floor Cleaner Robot",
+      "date": "Dec 2017",
+      "content": "The robot designed autonomously navigates around an unknown environment, maps the surroundings and cleans the floor effectively.",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/floorcleaner.png?raw=true",
+      "skills": ["Embedded Programming", "Sensor data analysis", "Data Structures & Algorithms", "Mobile Robotics"]
     }
   ],
   "Volunteer": [{
