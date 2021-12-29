@@ -93,58 +93,65 @@
   "Mentor": [{
       "header": "[Guest Lecture] Human-Computer Interactions",
       "date": "29 Dec 2021",
-      "content": "A clear start and end date - There are projects that last several years but a project cannot go on forever. It needs to have a clear beginning, a definite end, and an overview of what happens in between. A project creates something new – Every project is unique, producing something that did not previously exist. A project is a one-time, once-off activity, never to be repeated exactly the same way again. A project has boundaries – A project operates within certain constraints of time, money, quality, and functionality. We’ll see more about this in later sections.",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/sathyabama_hti.jpg",
-      "skills": ["Python", "Angular"]
+      "content": "Department of Computer Science and Engineering, Sathyabama University, Chennai, Tamil Nadu",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/sathyabama_hti.PNG",
+      "skills": ["HCI-HMI systems", "IoT", "Digital Twins", "Human-Factors Engineering", "Machine Learning"]
     },
     {
       "header": "[Guest Lecture] Recent Updates in Web Technology",
       "date": "24 Dec 2021",
-      "content": "A clear start and end date - There are projects that last several years but a project cannot go on forever. It needs to have a clear beginning, a definite end, and an overview of what happens in between. A project creates something new – Every project is unique, producing something that did not previously exist. A project is a one-time, once-off activity, never to be repeated exactly the same way again. A project has boundaries – A project operates within certain constraints of time, money, quality, and functionality. We’ll see more about this in later sections.",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/kec_webtech.jpg",
-      "skills": ["Python", "Angular"]
+      "content": "School of Computer Technology and Applications, Kongu Engineering College, Erode, Tamil Nadu",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/kec_webtech.PNG",
+      "skills": ["HTML CSS JS", "Angular", "ExpressJS", "MongoDB", "PWA", "NodeJS"]
     },
     {
       "header": "[Workshop] [Project Mentor] Hands-on IoT",
       "date": "Oct to Dec, 2021",
-      "content": "",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cit_iot.jpg",
-      "skills": []
+      "content": "Department of Electrical and Electronics Engineering, Coimbatore Institute of Technology",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cit_iot.PNG",
+      "skills": ["Embedded Systems", "Edge Computing", "Cloud Computing"]
     },
     {
       "header": "[Guest Lecture] SVM & Random Forest Techniques",
-      "date": "3 June, 2021",
-      "content": "",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cmr_svm_rfs.jpg",
-      "skills": []
+      "date": "03 June, 2021",
+      "content": "Faculty Development Program at Department of Computer Engineering, CMR Engineering College, Hyderabad, Telangana",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cmr_svm_rfs.PNG",
+      "skills": ["Support Vector Machines", "Random Forests"]
     },
     {
       "header": "[Workshop] SEED: Machine Learning for Beginners",
-      "date": "31 Oct & 1 Nov, 2020",
-      "content": "",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/seed_ml.jpg",
-      "skills": []
+      "date": "31 Oct & 01 Nov, 2020",
+      "content": "Spectrum Essential Education Development by Rotaract Club of Coimbatore Spectrum, RID3201",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/seed_ml.PNG",
+      "skills": ["Regression Analysis", "Classification Algorithms", "Reinforcement Learning"]
     },
     {
       "header": "[Guest Lecture] IoT for Real Time Projects",
       "date": "Oct to Dec, 2020",
-      "content": "",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/kec_iot.jpg",
-      "skills": []
+      "content": "School of Computer Technology and Applications, Kongu Engineering College, Erode, Tamil Nadu",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/kec_iot.PNG",
+      "skills": ["Embedded Systems", "IoT", "Cloud Computing"]
     },
     {
       "header": "[Workshop] SEED: Python Level-1",
-      "date": "3 & 4, Oct 2020",
-      "content": "",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/seed_python.jpg",
-      "skills": []
+      "date": "03 & 04, Oct 2020",
+      "content": "Spectrum Essential Education Development by Rotaract Club of Coimbatore Spectrum, RID3201",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/seed_python.PNG",
+      "skills": ["Python", "Git"]
     },
     {
       "header": "[Seminar] Cyber Security in Digital India",
       "date": "12 Sept, 2020",
-      "content": "",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cyber_security_ltlc.jpg",
-      "skills": []
+      "content": "Awareness Session by Amazing Human Beings Foundation",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cyber_security_ltlc.PNG",
+      "skills": ["MITM attack mitigation", "Phishing attack mitigation", "DDoS attack mitigation", "Cyber-security laws"]
+    },
+    {
+      "header": "[Webinar] Machine Learning - An industry Perspective",
+      "date": "08 Aug, 2020",
+      "content": "Department of Computer Science and Engineering, Bannari Amman Institute of Technology, Sathyamangalam, Tamil Nadu",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/bits_ml.PNG",
+      "skills": ["DevOps using ML", "ML-CRISP Algorithm", "Supervised Learning", "Unsupervised Learning"]
     }
   ],
   "Achievements": [{
