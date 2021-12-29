@@ -54,6 +54,15 @@
       "chips": ["leadership", "community service", "teaching"]
     },
     {
+      "heading": "Volunteer technical assistant",
+      "date": "Feb 2020",
+      "icon": "devices",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cheshire_homes_rotary.jpg",
+      "org": "Cheshire Homes for Disabled",
+      "context": "",
+      "chips": ["community service", "teaching"]
+    },
+    {
       "heading": "Treasurer, EEE Department Association",
       "date": "June 2018 - May 2019",
       "icon": "school",
@@ -157,19 +166,100 @@
   "Achievements": [{
       "heading": "DRR Special Recognition",
       "date": "April 2021",
-      "icon": "emoji_events",
-      "image": "drr_spec.jpg",
+      "icon": "military_tech",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/spec_recog.png",
       "org": "Rotary International Dist. 3201",
       "context": "For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21",
       "chips": ["leadership", "volunteering"]
     },
     {
-      "heading": "",
-      "date": "",
-      "icon": "",
+      "heading": "Outstanding Social Project",
+      "date": "2020-21",
+      "icon": "emoji_events",
       "image": "",
-      "org": "",
+      "org": "Rotaract South East Asia Conf.",
       "context": "",
+      "chips": []
+    },
+    {
+      "heading": "Outstanding Avenue Project",
+      "date": "2020-21",
+      "icon": "emoji_events",
+      "image": "",
+      "org": "Rotaract South Asia MDIO",
+      "context": "",
+      "chips": []
+    },
+    {
+      "heading": "Best Project Award",
+      "date": "April 2019",
+      "icon": "emoji_events",
+      "image": "",
+      "org": "CIT",
+      "context": "Received Best Project Award from CIT for final year project 'Intelligent Distributed Generation in Cloud-Connected Urban Microgrids'",
+      "chips": []
+    },
+    {
+      "heading": "Best Student Entrepreneur",
+      "date": "Feb 2019",
+      "icon": "military_tech",
+      "image": "",
+      "org": "CIT",
+      "context": "For having cofounded and worked at NxtStep Robotics",
+      "chips": []
+    },
+    {
+      "heading": "Exemplary Performance",
+      "date": "Feb 2019",
+      "icon": "person_pin",
+      "image": "",
+      "org": "CIT",
+      "context": "Exemplary Performance - EEE Association Treasurer",
+      "chips": []
+    },
+    {
+      "heading": "Best Project Award",
+      "date": "Jan 2019",
+      "icon": "emoji_events",
+      "image": "",
+      "org": "CII and JKKN",
+      "context": "Confederation of Indian Industries and JKKN Edu. Inst. presented 'Best Project Award' for Portable Urban Electric Mobility Vehicle",
+      "chips": []
+    },
+    {
+      "heading": "II Place, Hackathon",
+      "date": "Sept 2018",
+      "icon": "emoji_events",
+      "image": "",
+      "org": "Amrita Univ.",
+      "context": "Second place at Open Hackathon at Anokha National Tech fest, conducted by Dept. of CSE at Amrita University",
+      "chips": []
+    },
+    {
+      "heading": "II Place, Blastoise",
+      "date": "Sept 2018",
+      "icon": "emoji_events",
+      "image": "",
+      "org": "Amrita Univ.",
+      "context": "Second place at Fire Extinguisher Robot Design competition conducted by Dept. of EEE at Amrita University",
+      "chips": []
+    },
+    {
+      "heading": "II Place, EO GSEA18",
+      "date": "Feb 2018",
+      "icon": "emoji_events",
+      "image": "",
+      "org": "CIT",
+      "context": "Second place at Global Student Entrepreneur Awards, Indian Chapter, 2018",
+      "chips": []
+    },
+    {
+      "heading": "Exemplary Performance",
+      "date": "Feb 2018",
+      "icon": "person_pin",
+      "image": "",
+      "org": "CIT",
+      "context": "Exemplary Performance - Workshop Manager",
       "chips": []
     }
   ]
