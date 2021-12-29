@@ -94,63 +94,63 @@
       "header": "[Guest Lecture] Human-Computer Interactions",
       "date": "29 Dec 2021",
       "content": "Department of Computer Science and Engineering, Sathyabama University, Chennai, Tamil Nadu",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/sathyabama_hti.PNG",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/sathyabama_hti.png",
       "skills": ["HCI-HMI systems", "IoT", "Digital Twins", "Human-Factors Engineering", "Machine Learning"]
     },
     {
       "header": "[Guest Lecture] Recent Updates in Web Technology",
       "date": "24 Dec 2021",
       "content": "School of Computer Technology and Applications, Kongu Engineering College, Erode, Tamil Nadu",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/kec_webtech.PNG",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/kec_webtech.png",
       "skills": ["HTML CSS JS", "Angular", "ExpressJS", "MongoDB", "PWA", "NodeJS"]
     },
     {
       "header": "[Workshop] [Project Mentor] Hands-on IoT",
       "date": "Oct to Dec, 2021",
       "content": "Department of Electrical and Electronics Engineering, Coimbatore Institute of Technology",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cit_iot.PNG",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cit_iot.png",
       "skills": ["Embedded Systems", "Edge Computing", "Cloud Computing"]
     },
     {
       "header": "[Guest Lecture] SVM & Random Forest Techniques",
       "date": "03 June, 2021",
       "content": "Faculty Development Program at Department of Computer Engineering, CMR Engineering College, Hyderabad, Telangana",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cmr_svm_rfs.PNG",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cmr_svm_rfs.png",
       "skills": ["Support Vector Machines", "Random Forests"]
     },
     {
       "header": "[Workshop] SEED: Machine Learning for Beginners",
       "date": "31 Oct & 01 Nov, 2020",
       "content": "Spectrum Essential Education Development by Rotaract Club of Coimbatore Spectrum, RID3201",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/seed_ml.PNG",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/seed_ml.png",
       "skills": ["Regression Analysis", "Classification Algorithms", "Reinforcement Learning"]
     },
     {
       "header": "[Guest Lecture] IoT for Real Time Projects",
       "date": "Oct to Dec, 2020",
       "content": "School of Computer Technology and Applications, Kongu Engineering College, Erode, Tamil Nadu",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/kec_iot.PNG",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/kec_iot.png",
       "skills": ["Embedded Systems", "IoT", "Cloud Computing"]
     },
     {
       "header": "[Workshop] SEED: Python Level-1",
       "date": "03 & 04, Oct 2020",
       "content": "Spectrum Essential Education Development by Rotaract Club of Coimbatore Spectrum, RID3201",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/seed_python.PNG",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/seed_python.png",
       "skills": ["Python", "Git"]
     },
     {
       "header": "[Seminar] Cyber Security in Digital India",
       "date": "12 Sept, 2020",
       "content": "Awareness Session by Amazing Human Beings Foundation",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cyber_security_ltlc.PNG",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cyber_security_ltlc.png",
       "skills": ["MITM attack mitigation", "Phishing attack mitigation", "DDoS attack mitigation", "Cyber-security laws"]
     },
     {
       "header": "[Webinar] Machine Learning - An industry Perspective",
       "date": "08 Aug, 2020",
       "content": "Department of Computer Science and Engineering, Bannari Amman Institute of Technology, Sathyamangalam, Tamil Nadu",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/bits_ml.PNG",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/bits_ml.png",
       "skills": ["DevOps using ML", "ML-CRISP Algorithm", "Supervised Learning", "Unsupervised Learning"]
     }
   ],
