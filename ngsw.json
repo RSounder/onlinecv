@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1641053483124,
+  "timestamp": 1641055438715,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
@@ -73,6 +73,7 @@
         "/assets/images/linkedin.svg",
         "/assets/images/logo.svg",
         "/assets/images/out_soc_proj_rotasia.png",
+        "/assets/images/pwa_install.svg",
         "/assets/images/roar_seed.PNG",
         "/assets/images/sathyabama_hti.png",
         "/assets/images/seed_award_cit.jfif",
@@ -180,6 +181,7 @@
     "/assets/images/linkedin.svg": "095557534fca7dde2605cb57b072f79ed1d4367d",
     "/assets/images/logo.svg": "ad811d7f2e61a64c434ad73ee3075b75c550cc9b",
     "/assets/images/out_soc_proj_rotasia.png": "630085ace34f8e64eb7c1eea01541dec562e6409",
+    "/assets/images/pwa_install.svg": "0a688121eab62a84662e43857dfcf6f160a66201",
     "/assets/images/roar_seed.PNG": "6e3f4c89a07d71ab797bc3f85424fc0bb46fdda9",
     "/assets/images/sathyabama_hti.png": "0ff2bc77debb7b1039665748038d0d36be6d364a",
     "/assets/images/seed_award_cit.jfif": "3fbd028474210bd40ab5d8f1e560c585f1b6b21a",
