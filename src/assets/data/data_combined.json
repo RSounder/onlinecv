@@ -58,8 +58,8 @@
       "date": "Feb 2020",
       "icon": "devices",
       "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cheshire_homes_rotary.jpg",
-      "org": "Cheshire Homes for Disabled",
-      "context": "",
+      "org": "Cheshire Homes",
+      "context": "Served as technical assistant to Cheshire Homes for the Disabled and Differently-abled in Feb 2019",
       "chips": ["community service", "teaching"]
     },
     {
@@ -177,27 +177,27 @@
       "date": "April 2021",
       "icon": "military_tech",
       "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/spec_recog.png",
-      "org": "Rotary Int. Dist. 3201",
-      "context": "For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21",
-      "chips": ["leadership", "volunteering"]
+      "org": "Rotaract",
+      "context": "Honored by Rotary Int. Dist. 3201 For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21",
+      "chips": ["Leadership", "Volunteering"]
     },
     {
       "heading": "Outstanding Social Project",
       "date": "2020-21",
       "icon": "emoji_events",
       "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/out_soc_proj_rotasia.png",
-      "org": "Rotaract South East Asia Conf.",
-      "context": "",
-      "chips": []
+      "org": "Rotaract",
+      "context": "Honored at Rotaract South East Asia Conference 'Rotasia 2020-21' held in Coimbatore.",
+      "chips": ["Leadership", "Community Service"]
     },
     {
       "heading": "Outstanding Avenue Project",
       "date": "2020-21",
       "icon": "emoji_events",
       "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/roar_seed.png",
-      "org": "Rotaract South Asia MDIO",
-      "context": "",
-      "chips": []
+      "org": "Rotaract",
+      "context": "Honored by Rotaract South Asia Multi District Information Organization. Received ROAR (Rotaract Outstanding Avenue Recognition) award",
+      "chips": ["Leadership", "Community Service"]
     },
     {
       "heading": "Conducted Workshop",
@@ -215,7 +215,7 @@
       "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/best_proj_2.jpg",
       "org": "CIT",
       "context": "Received Best Project Award from CIT for final year project 'Intelligent Distributed Generation in Cloud-Connected Urban Microgrids'",
-      "chips": []
+      "chips": ["Technical Skills", "Research"]
     },
     {
       "heading": "Best Student Entrepreneur",
@@ -223,8 +223,8 @@
       "icon": "military_tech",
       "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cit_stud_entr.jpg",
       "org": "CIT",
-      "context": "For having cofounded and worked at NxtStep Robotics",
-      "chips": []
+      "context": "For having cofounded and worked at NxtStep Robotics startup",
+      "chips": ["Leadership", "Entrepreneurship"]
     },
     {
       "heading": "Exemplary Performance",
@@ -232,8 +232,8 @@
       "icon": "person_pin",
       "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cit_treas_award.jpg",
       "org": "CIT",
-      "context": "Exemplary Performance - EEE Association Treasurer",
-      "chips": []
+      "context": "Honored by Coimbatore Institute of Technology for Exemplary Performance as EEE Association Treasurer during 2018-2019 academic year",
+      "chips": ["Finance", "Volunteering"]
     },
     {
       "heading": "Best Project Award",
@@ -242,7 +242,7 @@
       "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/best_proj_1.jpg",
       "org": "CII and JKKN",
       "context": "Confederation of Indian Industries and JKKN Edu. Inst. presented 'Best Project Award' for Portable Urban Electric Mobility Vehicle",
-      "chips": []
+      "chips": ["Research", "Innovation"]
     },
     {
       "heading": "II Place, Hackathon",
@@ -251,7 +251,7 @@
       "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/anokha_hack.jpg",
       "org": "Amrita Univ.",
       "context": "Second place at Open Hackathon at Anokha National Tech fest, conducted by Dept. of CSE at Amrita University",
-      "chips": []
+      "chips": ["Innovation", "Coding"]
     },
     {
       "heading": "II Place, Blastoise",
@@ -260,7 +260,7 @@
       "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/anokha_blast.jpg",
       "org": "Amrita Univ.",
       "context": "Second place at Fire Extinguisher Robot Design competition conducted by Dept. of EEE at Amrita University",
-      "chips": []
+      "chips": ["Robotics", "Innovation"]
     },
     {
       "heading": "II Place, EO GSEA18",
@@ -269,7 +269,7 @@
       "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/gsea_award.png",
       "org": "CIT",
       "context": "Second place at Global Student Entrepreneur Awards, Indian Chapter, 2018",
-      "chips": []
+      "chips": ["Entrepreneurship"]
     },
     {
       "heading": "Exemplary Performance",
@@ -277,8 +277,8 @@
       "icon": "person_pin",
       "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/workshop_award.jpg",
       "org": "CIT",
-      "context": "Exemplary Performance - Workshop Manager during CIT's technical symposium",
-      "chips": []
+      "context": "Honored by Coimbatore Institute of Technology for Exemplary Performance as Workshop Manager during CIT's technical symposium in Sept 2017.",
+      "chips": ["Teamwork"]
     },
     {
       "heading": "Conducted Workshop",
@@ -287,7 +287,7 @@
       "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cit_workshop_hons.jpg",
       "org": "CIT",
       "context": "Honored by CIT for having conducted a technical workshop on 'ARM CORTEX M3' micro-controllers",
-      "chips": ["teaching", "technical skills"]
+      "chips": ["Teaching", "Technical Skills"]
     }
   ]
 }
