@@ -59,7 +59,7 @@
       "icon": "devices",
       "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cheshire_homes_rotary.jpg",
       "org": "Cheshire Homes",
-      "context": "Served as technical assistant to Cheshire Homes for the Disabled and Differently-abled in Feb 2019",
+      "context": "Volunteered to serve as technical assistant to Cheshire Homes for the Disabled and Differently-abled in Feb 2019",
       "chips": ["community service", "teaching"]
     },
     {
@@ -194,7 +194,7 @@
       "heading": "Outstanding Avenue Project",
       "date": "2020-21",
       "icon": "emoji_events",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/roar_seed.png",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/roar_seed.PNG",
       "org": "Rotaract",
       "context": "Honored by Rotaract South Asia Multi District Information Organization. Received ROAR (Rotaract Outstanding Avenue Recognition) award",
       "chips": ["Leadership", "Community Service"]
@@ -248,7 +248,7 @@
       "heading": "II Place, Hackathon",
       "date": "Sept 2018",
       "icon": "emoji_events",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/anokha_hack.jpg",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/anokha_hack.PNG",
       "org": "Amrita Univ.",
       "context": "Second place at Open Hackathon at Anokha National Tech fest, conducted by Dept. of CSE at Amrita University",
       "chips": ["Innovation", "Coding"]
@@ -257,7 +257,7 @@
       "heading": "II Place, Blastoise",
       "date": "Sept 2018",
       "icon": "emoji_events",
-      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/anokha_blast.jpg",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/anokha_blast.PNG",
       "org": "Amrita Univ.",
       "context": "Second place at Fire Extinguisher Robot Design competition conducted by Dept. of EEE at Amrita University",
       "chips": ["Robotics", "Innovation"]
