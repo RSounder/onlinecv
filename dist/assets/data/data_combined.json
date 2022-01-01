@@ -54,10 +54,19 @@
       "chips": ["leadership", "community service", "teaching"]
     },
     {
+      "heading": "Volunteer technical assistant",
+      "date": "Feb 2020",
+      "icon": "devices",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cheshire_homes_rotary.jpg",
+      "org": "Cheshire Homes",
+      "context": "Volunteered to serve as technical assistant to Cheshire Homes for the Disabled and Differently-abled in Feb 2019",
+      "chips": ["community service", "teaching"]
+    },
+    {
       "heading": "Treasurer, EEE Department Association",
       "date": "June 2018 - May 2019",
       "icon": "school",
-      "image": "https://lh3.googleusercontent.com/proxy/olwZlbZcjIcnwOxBUBa09QNbQlbEQFuYjUsX5YtJ2pPwhxbob9SHMXUl3szZ1oAI0w_wrU5oLAmc513vh2B4fDxiAdgPhzG3d4pNDO8XqG_dAkTh_LykhjuLwfsE7oG4B_0I3qrHi02uWB_XEu1ynM5n1u-MAW86wDdgjuUvD9vLhsNxipngS1Etyr86JVIWgQ",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/treasurer.jpg",
       "org": "EEE, CIT",
       "context": "",
       "chips": ["communication", "organization", "finance"]
@@ -75,7 +84,7 @@
       "heading": "Board Member & Volunteer",
       "date": "Jan 2017 *",
       "icon": "health_and_safety",
-      "image": "https://indianredcross.org/images/story-images/press-rel26-feb2019/press-rel26-feb2019.jpg",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/yrc.jpg",
       "org": "Youth Red Cross Society",
       "context": "",
       "chips": ["community service", "disaster relief", "teamwork"]
@@ -91,37 +100,194 @@
     }
   ],
   "Mentor": [{
-      "header": "Mentor1",
-      "date": "10 Dec 2021",
-      "content": "A clear start and end date - There are projects that last several years but a project cannot go on forever. It needs to have a clear beginning, a definite end, and an overview of what happens in between. A project creates something new – Every project is unique, producing something that did not previously exist. A project is a one-time, once-off activity, never to be repeated exactly the same way again. A project has boundaries – A project operates within certain constraints of time, money, quality, and functionality. We’ll see more about this in later sections.",
-      "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
-      "skills": ["Python", "Angular"]
+      "header": "[Guest Lecture] Human-Computer Interactions",
+      "date": "29 Dec 2021",
+      "content": "Department of Computer Science and Engineering, Sathyabama University, Chennai, Tamil Nadu",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/sathyabama_hti.png",
+      "skills": ["HCI-HMI systems", "IoT", "Digital Twins", "Human-Factors Engineering", "Machine Learning"]
     },
     {
-      "header": "",
-      "date": "",
-      "content": "",
-      "image": "",
-      "skills": []
+      "header": "[Guest Lecture] Recent Updates in Web Technology",
+      "date": "24 Dec 2021",
+      "content": "School of Computer Technology and Applications, Kongu Engineering College, Erode, Tamil Nadu",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/kec_webtech.png",
+      "skills": ["HTML CSS JS", "Angular", "ExpressJS", "MongoDB", "PWA", "NodeJS"]
+    },
+    {
+      "header": "[Workshop] [Project Mentor] Hands-on IoT",
+      "date": "Oct to Dec, 2021",
+      "content": "Department of Electrical and Electronics Engineering, Coimbatore Institute of Technology",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cit_iot.png",
+      "skills": ["Embedded Systems", "Edge Computing", "Cloud Computing"]
+    },
+    {
+      "header": "[Guest Lecture] SVM & Random Forest Techniques",
+      "date": "03 June, 2021",
+      "content": "Faculty Development Program at Department of Computer Engineering, CMR Engineering College, Hyderabad, Telangana",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cmr_svm_rfs.png",
+      "skills": ["Support Vector Machines", "Random Forests"]
+    },
+    {
+      "header": "[Workshop] SEED: Machine Learning for Beginners",
+      "date": "31 Oct & 01 Nov, 2020",
+      "content": "Spectrum Essential Education Development by Rotaract Club of Coimbatore Spectrum, RID3201",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/seed_ml.png",
+      "skills": ["Regression Analysis", "Classification Algorithms", "Reinforcement Learning"]
+    },
+    {
+      "header": "[Guest Lecture] IoT for Real Time Projects",
+      "date": "Oct to Dec, 2020",
+      "content": "School of Computer Technology and Applications, Kongu Engineering College, Erode, Tamil Nadu",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/kec_iot.png",
+      "skills": ["Embedded Systems", "IoT", "Cloud Computing"]
+    },
+    {
+      "header": "[Workshop] SEED: Python Level-1",
+      "date": "03 & 04, Oct 2020",
+      "content": "Spectrum Essential Education Development by Rotaract Club of Coimbatore Spectrum, RID3201",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/seed_python.png",
+      "skills": ["Python", "Git"]
+    },
+    {
+      "header": "[Seminar] Cyber Security in Digital India",
+      "date": "12 Sept, 2020",
+      "content": "Awareness Session by Amazing Human Beings Foundation",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cyber_security_ltlc.png",
+      "skills": ["MITM attack mitigation", "Phishing attack mitigation", "DDoS attack mitigation", "Cyber-security laws"]
+    },
+    {
+      "header": "[Webinar] Machine Learning - An industry Perspective",
+      "date": "08 Aug, 2020",
+      "content": "Department of Computer Science and Engineering, Bannari Amman Institute of Technology, Sathyamangalam, Tamil Nadu",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/bits_ml.png",
+      "skills": ["DevOps using ML", "ML-CRISP Algorithm", "Supervised Learning", "Unsupervised Learning"]
     }
   ],
   "Achievements": [{
-      "heading": "DRR Special Recognition",
-      "date": "April 2021",
-      "icon": "emoji_events",
-      "image": "drr_spec.jpg",
-      "org": "Rotary International Dist. 3201",
-      "context": "For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21",
-      "chips": ["leadership", "volunteering"]
+      "heading": "Conducted Workshop",
+      "date": "Oct 2021",
+      "icon": "person_pin",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cit_guestlec_hons.jpg",
+      "org": "CIT",
+      "context": "Honored by Coimbatore Institute of Technology for having conducted a technical workshop on 'Hands-on on IoT' and mentored their students for third year capstone projects",
+      "chips": ["Teaching", "Technical Skills"]
     },
     {
-      "heading": "",
-      "date": "",
-      "icon": "",
-      "image": "",
-      "org": "",
-      "context": "",
-      "chips": []
+      "heading": "DRR Special Recognition",
+      "date": "April 2021",
+      "icon": "military_tech",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/spec_recog.png",
+      "org": "Rotaract",
+      "context": "Honored by Rotary Int. Dist. 3201 For showing leadership in community service projects and spirit of volunteering displayed during Rotary year 2020-21",
+      "chips": ["Leadership", "Volunteering"]
+    },
+    {
+      "heading": "Outstanding Social Project",
+      "date": "2020-21",
+      "icon": "emoji_events",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/out_soc_proj_rotasia.png",
+      "org": "Rotaract",
+      "context": "Honored at Rotaract South East Asia Conference 'Rotasia 2020-21' held in Coimbatore.",
+      "chips": ["Leadership", "Community Service"]
+    },
+    {
+      "heading": "Outstanding Avenue Project",
+      "date": "2020-21",
+      "icon": "emoji_events",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/roar_seed.PNG",
+      "org": "Rotaract",
+      "context": "Honored by Rotaract South Asia Multi District Information Organization. Received ROAR (Rotaract Outstanding Avenue Recognition) award",
+      "chips": ["Leadership", "Community Service"]
+    },
+    {
+      "heading": "Conducted Workshop",
+      "date": "Dec 2020",
+      "icon": "person_pin",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/kec_award.jpg",
+      "org": "KEC",
+      "context": "Honored by Kongu Engineering College for having conducted a technical workshop on 'IoT for real-time projects' and mentored their students for final year projects",
+      "chips": ["Teaching", "Technical Skills"]
+    },
+    {
+      "heading": "Best Project Award",
+      "date": "April 2019",
+      "icon": "emoji_events",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/best_proj_2.jpg",
+      "org": "CIT",
+      "context": "Received Best Project Award from CIT for final year project 'Intelligent Distributed Generation in Cloud-Connected Urban Microgrids'",
+      "chips": ["Technical Skills", "Research"]
+    },
+    {
+      "heading": "Best Student Entrepreneur",
+      "date": "Feb 2019",
+      "icon": "military_tech",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cit_stud_entr.jpg",
+      "org": "CIT",
+      "context": "For having cofounded and worked at NxtStep Robotics startup",
+      "chips": ["Leadership", "Entrepreneurship"]
+    },
+    {
+      "heading": "Exemplary Performance",
+      "date": "Feb 2019",
+      "icon": "person_pin",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cit_treas_award.jpg",
+      "org": "CIT",
+      "context": "Honored by Coimbatore Institute of Technology for Exemplary Performance as EEE Association Treasurer during 2018-2019 academic year",
+      "chips": ["Finance", "Volunteering"]
+    },
+    {
+      "heading": "Best Project Award",
+      "date": "Jan 2019",
+      "icon": "emoji_events",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/best_proj_1.jpg",
+      "org": "CII and JKKN",
+      "context": "Confederation of Indian Industries and JKKN Edu. Inst. presented 'Best Project Award' for Portable Urban Electric Mobility Vehicle",
+      "chips": ["Research", "Innovation"]
+    },
+    {
+      "heading": "II Place, Hackathon",
+      "date": "Sept 2018",
+      "icon": "emoji_events",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/anokha_hack.PNG",
+      "org": "Amrita Univ.",
+      "context": "Second place at Open Hackathon at Anokha National Tech fest, conducted by Dept. of CSE at Amrita University",
+      "chips": ["Innovation", "Coding"]
+    },
+    {
+      "heading": "II Place, Blastoise",
+      "date": "Sept 2018",
+      "icon": "emoji_events",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/anokha_blast.PNG",
+      "org": "Amrita Univ.",
+      "context": "Second place at Fire Extinguisher Robot Design competition conducted by Dept. of EEE at Amrita University",
+      "chips": ["Robotics", "Innovation"]
+    },
+    {
+      "heading": "II Place, EO GSEA18",
+      "date": "Feb 2018",
+      "icon": "emoji_events",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/gsea_award.png",
+      "org": "CIT",
+      "context": "Second place at Global Student Entrepreneur Awards, Indian Chapter, 2018",
+      "chips": ["Entrepreneurship"]
+    },
+    {
+      "heading": "Exemplary Performance",
+      "date": "Feb 2018",
+      "icon": "person_pin",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/workshop_award.jpg",
+      "org": "CIT",
+      "context": "Honored by Coimbatore Institute of Technology for Exemplary Performance as Workshop Manager during CIT's technical symposium in Sept 2017.",
+      "chips": ["Teamwork"]
+    },
+    {
+      "heading": "Conducted Workshop",
+      "date": "Sept 2017",
+      "icon": "person_pin",
+      "image": "https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/images/cit_workshop_hons.jpg",
+      "org": "CIT",
+      "context": "Honored by CIT for having conducted a technical workshop on 'ARM CORTEX M3' micro-controllers",
+      "chips": ["Teaching", "Technical Skills"]
     }
   ]
 }
