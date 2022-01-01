@@ -7,9 +7,16 @@
   "scope": "./",
   "start_url": "./",
   "icons": [{
-    "src": "assets/icons/logo.ico",
-    "sizes": "32x32",
-    "type": "image/ico",
-    "purpose": "maskable any"
-  }]
+      "src": "assets/icons/logo.ico",
+      "sizes": "32x32",
+      "type": "image/ico",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/icons/logo.svg",
+      "sizes": "42x42",
+      "type": "image/svg",
+      "purpose": "maskable any"
+    }
+  ]
 }
