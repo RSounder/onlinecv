@@ -1,6 +1,6 @@
 {
-  "name": "onlinecv",
-  "version": "0.0.0",
+  "name": "sounder_cv",
+  "version": "1.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

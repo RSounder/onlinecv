@@ -18,7 +18,7 @@ export class ProjectsComponent implements OnInit {
 
   getData() {
     const url =
-      'https://raw.githubusercontent.com/RSounder/onlinecv/master/src/assets/data/data_combined.json';
+      'https://raw.githubusercontent.com/RSounder/sounder_cv/master/src/assets/data/data_combined.json';
     this.http.get(url).subscribe((res: any) => {
       this.projectData = res.Projects;
     });
