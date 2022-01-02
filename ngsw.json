@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1641141460251,
+  "timestamp": 1641142998730,
   "index": "https://sounder.world/index.html",
   "assetGroups": [
     {
@@ -35,6 +35,7 @@
         "https://sounder.world/assets/fonts/Calistoga-Regular.woff2",
         "https://sounder.world/assets/fonts/Grenze-Regular.woff2",
         "https://sounder.world/assets/icons/logo.ico",
+        "https://sounder.world/assets/icons/logo.png",
         "https://sounder.world/assets/icons/logo.svg",
         "https://sounder.world/assets/images/ClosedLoopPDAVnV.png",
         "https://sounder.world/assets/images/SR.svg",
@@ -132,10 +133,11 @@
   "hashTable": {
     "https://sounder.world/Calistoga-Regular.dd3a660229fee723dacb.woff2": "55c49d980a76f2daf861aa7785e44fbff53d4f48",
     "https://sounder.world/Grenze-Regular.f083f827f749eb405f7c.woff2": "276c1ddbc56737b72ae0c62cd93cfabbc58767cf",
-    "https://sounder.world/assets/data/data_combined.json": "86e940a61affb8bede424261fb3786577daa1bbe",
+    "https://sounder.world/assets/data/data_combined.json": "d98c9d1ac8320f2db48b0a39431678d34ad28e18",
     "https://sounder.world/assets/fonts/Calistoga-Regular.woff2": "55c49d980a76f2daf861aa7785e44fbff53d4f48",
     "https://sounder.world/assets/fonts/Grenze-Regular.woff2": "276c1ddbc56737b72ae0c62cd93cfabbc58767cf",
     "https://sounder.world/assets/icons/logo.ico": "6ce74d54e90a01322ea155057555c7088bc7cfb5",
+    "https://sounder.world/assets/icons/logo.png": "b479835574fdba47b59e145d363c92bfb9d6c021",
     "https://sounder.world/assets/icons/logo.svg": "ad811d7f2e61a64c434ad73ee3075b75c550cc9b",
     "https://sounder.world/assets/images/ClosedLoopPDAVnV.png": "46902c9cb6d56059b520d73336af4b7bd10e192d",
     "https://sounder.world/assets/images/SR.svg": "67e19f3e889b73fd2608017b35b36fcca467577c",
@@ -228,7 +230,7 @@
     "https://sounder.world/favicon.ico": "6ce74d54e90a01322ea155057555c7088bc7cfb5",
     "https://sounder.world/index.html": "95e8c3bf7234913923c45ee3043d4002fe2335c9",
     "https://sounder.world/main.a02510ce90063479eac6.js": "db9d65996370afb4d02b8c5b389b8e0ff2e0fa38",
-    "https://sounder.world/manifest.webmanifest": "a7d82a92d44c03160174cf37d021c2f19ea71b6c",
+    "https://sounder.world/manifest.webmanifest": "5a9936529b9ab8a9ff51c8c66a7e673497aba5cf",
     "https://sounder.world/polyfills.20e9f3ce8057b09829fc.js": "ba5f17c0ce62bb7512f63eb2fc065ef19b722320",
     "https://sounder.world/runtime.b2e23b03febae3e26aa1.js": "486f1ec91f693bcfbfa86e8174c0819a732202bb",
     "https://sounder.world/styles.d49f15d299bbff6ef82d.css": "a6f9f31e742aa317410f110977b8e4638d666226"

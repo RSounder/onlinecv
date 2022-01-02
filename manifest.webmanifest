@@ -1,15 +1,15 @@
 {
-  "name": "Sounder's CV",
-  "short_name": "Sounder's CV",
+  "name": "Sounder_CV",
+  "short_name": "Sounder_CV",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
   "icons": [{
-      "src": "assets/icons/logo.ico",
+      "src": "assets/icons/logo.png",
       "sizes": "32x32",
-      "type": "image/ico",
+      "type": "image/png",
       "purpose": "maskable any"
     },
     {
